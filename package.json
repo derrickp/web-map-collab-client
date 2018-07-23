@@ -1,0 +1,12 @@
+{
+  "name": "web-map-collab",
+  "version": "0.0.1",
+  "description": "A client application for collaborating on a web map.",
+  "main": "app.js",
+  "repository": "https://github.com/derrickp/web-map-collab-client",
+  "author": "Derrick Plotsky <derrickplotsky@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  }
+}
