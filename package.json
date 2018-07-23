@@ -2,11 +2,15 @@
   "name": "web-map-collab",
   "version": "0.0.1",
   "description": "A client application for collaborating on a web map.",
-  "main": "app.js",
+  "main": "index.js",
   "repository": "https://github.com/derrickp/web-map-collab-client",
   "author": "Derrick Plotsky <derrickplotsky@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "parcel-bundler": "^1.9.7",
     "typescript": "^2.9.2"
+  },
+  "scripts": {
+    "parcel": "parcel ./src/index.html"
   }
 }
